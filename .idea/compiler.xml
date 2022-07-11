@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Comments-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Relational_operators-Determine_the_result.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Relational_operators-Possible_values_of_a_variable.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-The_main_method-Print__We_are_robots.main" target="11" />
+      <module name="Coffee_Machine1.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Types_and_variables-Statements.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Coffee_Machine1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
